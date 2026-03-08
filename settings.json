@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "X-raying will result in a ban",
+        "This server does not promote players using resource packs",
+        "DO NOT USE XRAY!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "max-reconnect-delay": 12000,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
