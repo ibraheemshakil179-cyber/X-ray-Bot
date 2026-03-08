@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "X-ray Banner",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "LgsLifesteal.aternos.me",
+    "port": 41404,
     "version": "1.21.1"
   },
   "position": {
